@@ -1,2 +1,4 @@
 
-export const DB_NAME = 'videotube'
+export const DB_NAME = 'youtube'
+
+export const limitsInkb = "16kbs"
